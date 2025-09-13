@@ -5,7 +5,7 @@ Bem-vindo ao repositório da disciplina de Algoritmos e Estruturas de Dados do s
 📂 Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
-
+ 
 ├── Algoritmos
 │   ├── ordenacao.c
 │   ├── busca.c
