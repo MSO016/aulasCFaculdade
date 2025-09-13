@@ -1,4 +1,4 @@
-📘 Segundo Semestre — Ciência da Computação
+📘 Segundo Semestre
 
 Bem-vindo ao repositório do segundo semestre do curso de Ciência da Computação. Este espaço reúne os projetos desenvolvidos nas disciplinas de Algoritmo e Estruturas de Dados, Programação Orientada a Objetos, Banco de Dados e Redes de Computadores. Cada pasta contém soluções práticas que refletem o aprendizado e a aplicação dos conceitos fundamentais da computação.
 
