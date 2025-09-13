@@ -1,60 +1,87 @@
-🚀 Portfólio de Aulas de C da Faculdade
-Bem-vindo ao meu portfólio de projetos desenvolvidos durante a disciplina de Linguagem de Programação C. Este repositório é uma coleção de atividades e projetos que demonstram meu aprendizado e a aplicação de conceitos fundamentais para a programação de sistemas e o desenvolvimento de lógicas de alto desempenho.
+🚀 Portfólio de Programação em C
 
-✨ Para Futuros Empreendedores e Recrutadores
+Bem-vindo ao meu portfólio de projetos desenvolvidos durante a faculdade, focado na linguagem C. Este repositório reúne exercícios e projetos que consolidam conceitos fundamentais de programação, estruturas de dados e lógica aplicada, oferecendo soluções funcionais e práticas para desafios de desenvolvimento.
 
-Este repositório é uma demonstração prática das minhas competências em:
+✨ Para Futuros Recrutadores e Entusiastas de Programação
 
-Fundamentos de Programação: Construção de lógicas de programação sólidas e eficientes usando a linguagem C.
+Este repositório demonstra competências como:
 
-Manipulação de Memória: Entendimento e uso de ponteiros e alocação dinâmica de memória, essenciais para otimizar recursos.
+Lógica de Programação Avançada: Desenvolvimento de algoritmos robustos e eficientes.
 
-Estruturas de Dados: Implementação e uso de estruturas de dados como structs para organizar informações de forma eficaz.
+Estruturas de Dados: Uso de vetores, matrizes, structs e manipulação dinâmica de dados.
 
-Modularização de Código: Divisão de projetos em funções e arquivos de cabeçalho (.h) para promover a reutilização e facilitar a manutenção.
+Funções e Modularização: Criação de funções reutilizáveis e organização do código de forma clara.
 
-Resolução de Problemas: Abordagem prática para superar desafios de desenvolvimento, otimizar algoritmos e garantir o funcionamento correto das aplicações.
+Controle de Fluxo: Aplicação de estruturas condicionais (if, switch) e loops (for, while, do-while) para controle de execução.
 
-Cada projeto aqui reflete uma etapa de aprendizado e aplicação de conceitos, mostrando minha capacidade de construir a base lógica de qualquer sistema.
+Manipulação de Arquivos e Strings: Leitura, escrita e comparação de arquivos e strings, incluindo conceitos de segurança e boas práticas.
 
-📚 Visão Geral dos Projetos
+Cada projeto reflete etapas de aprendizagem progressivas, desde conceitos básicos até exercícios mais avançados com matrizes, structs e arquivos.
 
-As atividades estão organizadas em pastas por semestre. Cada pasta de semestre contém as atividades desenvolvidas naquele período.
+📚 Visão Geral dos Projetos (Atividades)
 
-Sintaxe Básica: Projetos iniciais que cobrem variáveis, tipos de dados e operadores.
+A pasta Aulas e Tarefas contém exercícios categorizados por conceitos e níveis de dificuldade.
 
-Estruturas de Controle: Lógica de decisão (if, switch) e de repetição (for, while, do-while).
+📁 Aulas / Exercícios Básicos
 
-Funções e Modularização: Criação e uso de funções para organizar e reutilizar código.
+Foco: Fundamentos de C, incluindo Hello World, variáveis, operadores e entrada/saída de dados.
 
-Ponteiros e Memória: Projetos que exploram a manipulação de ponteiros e a alocação de memória dinâmica.
+Competências Demonstradas: Sintaxe básica, uso do printf, scanf e inicialização de variáveis.
 
-Estruturas de Dados: Implementação de structs para agrupar dados relacionados e criar tipos de dados personalizados.
+📁 Aulas / Controle de Fluxo
 
-Manipulação de Arquivos: Projetos que demonstram como ler e escrever em arquivos.
+Foco: Estruturas condicionais (if, else, switch) e loops (for, while, do-while).
+
+Competências Demonstradas: Tomada de decisão, repetição controlada, aplicação prática em cálculos e iterações.
+
+📁 Aulas / Funções
+
+Foco: Criação e utilização de funções para modularizar código.
+
+Competências Demonstradas: Passagem de parâmetros, retorno de valores, arrays e ponteiros.
+
+📁 Aulas / Vetores e Matrizes
+
+Foco: Manipulação de arrays e matrizes multidimensionais.
+
+Competências Demonstradas: Armazenamento e acesso eficiente a coleções de dados, cálculos de médias, somas e impressões estruturadas.
+
+📁 Aulas / Strings e Manipulação de Texto
+
+Foco: Operações com strings, como concatenação, cópia, comparação e tamanho.
+
+Competências Demonstradas: Funções strcat, strcpy, strcmp, strlen, uso de fgets e puts.
+
+📁 Aulas / Structs e Arquivos
+
+Foco: Criação de estruturas de dados personalizadas e persistência de informações em arquivos.
+
+Competências Demonstradas: Estruturas struct, leitura/escrita em arquivos (fopen, fprintf, fscanf), organização de dados complexos.
 
 🛠️ Tecnologias e Conceitos Abrangidos
 
-Linguagem: C (C99, C11)
+Linguagem: C (C99 e superior)
 
-Ferramentas: Compilador GCC
+Conceitos de Programação: Estruturas de controle, funções, vetores, matrizes, structs, arquivos, strings.
 
-Conceitos Principais: Funções, Ponteiros, structs, Arrays, Strings, Manipulação de Arquivos.
+Boas práticas: Modularização, comentários, clareza no código e tratamento de entrada do usuário.
 
 🚀 Como Explorar os Projetos
 
 Clone o Repositório:
 
-git clone [https://github.com/MSO016/aulasCFaculdade.git](https://github.com/MSO016/aulasCFaculdade.git)
+git clone https://github.com/MSO016/aulasCFaculdade.git
+cd aulasCFaculdade
 
-Navegue para a Pasta do Projeto Desejado:
 
-cd aulasCFaculdade/semestre_x/
+Compile o Código Desejado:
 
-(substitua x pelo número do semestre, por exemplo, semestre_1)
+gcc "NomeDoArquivo.c" -o NomeDoPrograma
 
-Compile e Execute o Código:
-Siga as instruções de compilação dentro da pasta de cada atividade. Um exemplo comum é:
 
-gcc nome_do_arquivo.c -o nome_do_programa
-./nome_do_programa
+Execute o Programa:
+
+./NomeDoPrograma
+
+
+Cada exercício possui comentários que explicam a lógica aplicada e instruções para execução. Explore, teste e modifique para aprender ainda mais!
