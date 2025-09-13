@@ -27,7 +27,7 @@ int main() {
     }
 
     if (quantidade > 5) {
-        total = total * 0.9; 
+        total = total * 0.9; // desconto de 10%
     }
 
     printf("Total a pagar: R$ %.2f\n", total);

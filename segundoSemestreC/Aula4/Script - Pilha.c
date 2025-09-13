@@ -46,23 +46,23 @@ int main () {
     inicializarPilha(&p);
 
     peek(&p, &valor);
-    printf("O valor inicial do topo e: %d \n", valor); 
+    printf("O valor inicial do topo eh: %d \n", valor); 
 
     push(&p, 10);
     peek(&p, &valor);
-    printf("O valor do topo apos 1 item e: %d \n", valor); 
+    printf("O valor do topo apos 1 item eh: %d \n", valor); 
 
     push(&p, 20);
     push(&p, 30);
 
     peek(&p, &valor);
-    printf("O valor do topo apos 3 itens e: %d \n", valor); 
+    printf("O valor do topo apos 3 itens eh: %d \n", valor); 
 
     while (!pilhaVazia(&p)) {
         pop(&p, &valor);
         printf("Removido o elemento: %d \n", valor);
         peek(&p, &valor);
-        printf("O valor atual do topo e: %d \n", valor); 
+        printf("O valor atual do topo eh: %d \n", valor); 
     }
     return 0;
 }
