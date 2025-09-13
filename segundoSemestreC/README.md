@@ -38,25 +38,6 @@ Protocolos de Comunicação: Implementação e análise de protocolos como TCP/I
 
 Ferramentas de Rede: Utilização de ferramentas como Wireshark e Netcat para análise de tráfego de rede.
 
-📂 Estrutura do Repositório
-
-A estrutura do repositório é organizada da seguinte forma:
-
-segundoSemestreC/
-├── Algoritmos/
-│   ├── Ordenacao/
-│   ├── Busca/
-│   └── Grafos/
-├── POO/
-│   ├── Exemplos/
-│   └── Projetos/
-├── BancoDeDados/
-│   ├── Modelagem/
-│   └── SQL/
-└── Redes/
-    ├── Protocolos/
-    └── Ferramentas/
-
 🚀 Como Explorar os Projetos
 
 Para explorar os projetos, siga os passos abaixo:
